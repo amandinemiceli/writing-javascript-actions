@@ -21,6 +21,4 @@ jobs:
       - name: hello-action
         uses: ./.github/actions/hello-world
         with:
-          first-greeting: "Amandine"
-          second-greeting: "You, stranger"
-          third-greeting: "My friend"
+          third-greeting: "YOU"
